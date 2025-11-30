@@ -24,20 +24,20 @@ Being the 5 major Python data-science packages, commit trends over the past thre
 ## Plot / Visualization
 
 ### total commits per package
-![hourly commits](./visualizations/commit_counts_per_package.png)
+![hourly commits](./../visualizations/commit_counts_per_package.png)
 
 ### time charts
-![hourly commits](./visualizations/hourly_commits.png)
-![daily commits](./visualizations/daily_commits.png)
-![weekly commits](./visualizations/weekly_commits.png)
-![monthly commits](./visualizations/monthly_commits.png)
+![hourly commits](./../visualizations/hourly_commits.png)
+![daily commits](./../visualizations/daily_commits.png)
+![weekly commits](./../visualizations/weekly_commits.png)
+![monthly commits](./../visualizations/monthly_commits.png)
 
 ### percent changes in packages
 
 #### three month periods
-![monthly commits](./visualizations/threemo_perc_change.png)
+![monthly commits](./../visualizations/threemo_perc_change.png)
 #### six month periods
-![monthly commits](./visualizations/sixmo_perc_change.png)
+![monthly commits](./../visualizations/sixmo_perc_change.png)
 
 
 ## GitHub Repository
